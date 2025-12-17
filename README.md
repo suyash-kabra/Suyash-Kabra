@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+### I'm currently working as SAP SD Analyst
+### I'm currently learning Data Analytics
 
 <!--
 **suyash-kabra/Suyash-Kabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
