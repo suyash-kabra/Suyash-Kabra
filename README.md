@@ -1,4 +1,4 @@
-# 🚀 Data Analyst | Power BI | SQL | Excel | Python | Open to New Opportunities
+# 🚀 Data Analyst | Power BI | SQL | Excel | Open to New Opportunities
 ## 🔍 About Me
 I am an SAP SD professional transitioning into Data Analytics, with a strong background in business processes, problem-solving, and analytical thinking. Through my experience in SAP and my growing exposure to data analytics, I have developed a deep interest in understanding data and using it to drive informed business decisions.
 
