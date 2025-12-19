@@ -1,4 +1,4 @@
-# About me
+# Data Analyst | Power BI | SQL | Excel | Python | Open to New Opportunities
 ### I'm currently working as SAP SD Analyst
 ### I'm currently learning Data Analytics
 
